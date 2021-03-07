@@ -134,9 +134,7 @@
 	{
 		"url": "https://github.com/KorewaLidesu/dotnetcore-buildpackv2.1.git"
 	}
-  ],
-	
-  "stack": "heroku-18"
+  ]
 }
 
 
