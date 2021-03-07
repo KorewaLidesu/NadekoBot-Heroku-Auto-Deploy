@@ -132,7 +132,7 @@
 		"url": "https://github.com/appositum/heroku-buildpack-youtube-dl.git"
 	},
 	{
-		"url": "https://github.com/KorewaLidesu/dotnetcore-buildpackv2.1.git"
+		"url": "https://github.com/ScarletKuro/dotnetcore-buildpackv2.1.git"
 	}
   ]
 }
